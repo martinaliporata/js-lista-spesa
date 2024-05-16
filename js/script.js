@@ -7,4 +7,6 @@ while (index < shoppingList.length) {
     const element = document.createElement('li');
     element.append(shoppingList[index]);
     ulElement.appendChild(element);
+    // condizione di uscita (j= j+1)
+    index++ 
 }
