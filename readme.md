@@ -3,3 +3,7 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 Consigli:
 Ricordiamoci di inizializzare la variabile di contatore prima dell'inizio del ciclo while
 Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione di uscita, all'interno ciclo while
+
+Creare un array con gli elementi della lista della spesa
+Creare un ul nell'html
+Creo un ciclo while in cui creo un li con il nome dell'elemento con createelement e lo attacco all'ul con appendchild
